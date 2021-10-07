@@ -14,7 +14,7 @@ import Section from '../../containers/Section';
 import Title from '../../components/texts/Title';
 import Description from '../../components/texts/Description';
 import Image from '../../components/images/Image';
-import Carousel from '../../components/carousel/Carousel';
+import Carousel from '../../components/carousel-knowledge/Carousel';
 
 const Home = () => {
 	//TODO: ADD COMPONENTS MORE FIX

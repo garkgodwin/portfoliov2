@@ -5,7 +5,7 @@ import { NavLink } from 'react-router-dom';
 import './Navbar.css';
 
 //?Images
-import { ReactComponent as Logo } from '../../images/logo-light.svg';
+import { ReactComponent as Logo } from '../../images/common/logo.svg';
 import { ReactComponent as MenuToggler } from '../../images/nav/menu-toggler.svg';
 import { ReactComponent as SocialToggler } from '../../images/nav/social-toggler.svg';
 
