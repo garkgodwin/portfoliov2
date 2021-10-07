@@ -1,0 +1,25 @@
+.Contact {
+	width: 100%;
+	height: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.c-box {
+	padding: 24px;
+	width: auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.c-title {
+	font-size: 80px;
+}
+.c-sub {
+	font-size: 24px;
+	opacity: 0.5;
+}

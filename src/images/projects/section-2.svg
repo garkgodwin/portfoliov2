@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1148" height="609" viewBox="0 0 1148 609">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="1148" height="609" transform="translate(304 255)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.988"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0.741"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0090ff"/>
+      <stop offset="0.038" stop-color="#0a94ff"/>
+      <stop offset="0.385" stop-color="#639ecb" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#64c8ff" stop-opacity="0.49"/>
+      <stop offset="1" stop-opacity="0.102"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#101527" stop-opacity="0.439"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#979ea4" stop-opacity="0.431"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0090ff" stop-opacity="0.349"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0.01" y1="0.008" x2="0.815" y2="0.96" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0090ff"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0.149"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#101527"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.231"/>
+    </linearGradient>
+  </defs>
+  <g id="projects-section-2" transform="translate(-304 -255)" clip-path="url(#clip-path)">
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(230 116)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)">
+      <ellipse cx="218" cy="158" rx="218" ry="158" stroke="none"/>
+      <ellipse cx="218" cy="158" rx="217.5" ry="157.5" fill="none"/>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(1017 178)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient-2)">
+      <ellipse cx="202.5" cy="137.5" rx="202.5" ry="137.5" stroke="none"/>
+      <ellipse cx="202.5" cy="137.5" rx="202" ry="137" fill="none"/>
+    </g>
+    <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(878 752)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient-3)">
+      <ellipse cx="181" cy="67" rx="181" ry="67" stroke="none"/>
+      <ellipse cx="181" cy="67" rx="180.5" ry="66.5" fill="none"/>
+    </g>
+    <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(508 635)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient-4)">
+      <ellipse cx="89.5" cy="105" rx="89.5" ry="105" stroke="none"/>
+      <ellipse cx="89.5" cy="105" rx="89" ry="104.5" fill="none"/>
+    </g>
+    <g id="Polygon_4" data-name="Polygon 4" transform="matrix(0.829, -0.559, 0.559, 0.829, 1122.502, 618.131)" fill="url(#linear-gradient-5)">
+      <path d="M 356.6033020019531 146.5 L 1.396687030792236 146.5 L 179 0.6470000147819519 L 356.6033020019531 146.5 Z" stroke="none"/>
+      <path d="M 179 1.29400634765625 L 2.793365478515625 146 L 355.2066345214844 146 L 179 1.29400634765625 M 179 0 L 358 147 L 0 147 L 179 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Polygon_5" data-name="Polygon 5" transform="matrix(0.899, 0.438, -0.438, 0.899, 188.633, 343.356)" fill="url(#linear-gradient-6)">
+      <path d="M 260.0471496582031 188.5 L 0.952835738658905 188.5 L 130.5 0.8799689412117004 L 260.0471496582031 188.5 Z" stroke="none"/>
+      <path d="M 130.5 1.759979248046875 L 1.90570068359375 188 L 259.0942993164063 188 L 130.5 1.759979248046875 M 130.5 0 L 261 189 L 0 189 L 130.5 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Rectangle_18" data-name="Rectangle 18" transform="matrix(0.809, 0.588, -0.588, 0.809, 626.019, -381.589)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient-7)">
+      <rect width="1398.414" height="1233" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1397.414" height="1232" fill="none"/>
+    </g>
+    <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(931.249 193.02) rotate(56)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient-8)">
+      <rect width="127" height="307" stroke="none"/>
+      <rect x="0.5" y="0.5" width="126" height="306" fill="none"/>
+    </g>
+  </g>
+</svg>

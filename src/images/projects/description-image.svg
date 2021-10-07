@@ -1,0 +1,284 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2000" height="2000" viewBox="0 0 2000 2000">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.71"/>
+      <stop offset="1" stop-color="#101527"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#979ea4" stop-opacity="0.549"/>
+      <stop offset="1" stop-color="#0090ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.478"/>
+      <stop offset="1" stop-color="#0090ff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="circles-box" width="2000" height="2000" transform="translate(2315 2381)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_26" data-name="Rectangle 26" width="550" height="550" transform="translate(2274 2832)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#64c8ff"/>
+    </linearGradient>
+    <filter id="Ellipse_17" x="871" y="1113.7" width="530" height="530" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_18" x="1079" y="1241.7" width="530" height="530" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_7" x="1187" y="918.7" width="530" height="530" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-5">
+      <rect id="Rectangle_15" data-name="Rectangle 15" width="750" height="750" transform="translate(2274 2832)" fill="#fff" stroke="#0090ff" stroke-width="1"/>
+    </clipPath>
+    <filter id="Ellipse_6" x="479.091" y="240.091" width="730" height="730" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-7" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#979ea4"/>
+      <stop offset="1" stop-color="#101527"/>
+    </linearGradient>
+    <filter id="Ellipse_9" x="861" y="590" width="530" height="530" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-7">
+      <rect id="Rectangle_21" data-name="Rectangle 21" width="350" height="350" transform="translate(2274 2832)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <filter id="Ellipse_12" x="942.909" y="1003.909" width="348.182" height="348.182" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_15" x="1033" y="331" width="530" height="530" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_16" x="1252" y="590" width="530" height="530" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-10">
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="350" height="350" transform="translate(2274 2832)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-11" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#64c8ff"/>
+      <stop offset="1" stop-color="#101527" stop-opacity="0.522"/>
+    </linearGradient>
+    <filter id="Ellipse_19" x="835.909" y="1385.909" width="348.182" height="348.182" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-12" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#101527" stop-opacity="0.471"/>
+      <stop offset="1" stop-color="#101527"/>
+    </linearGradient>
+    <filter id="Ellipse_20" x="1573.909" y="988.909" width="348.182" height="348.182" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-13" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0090ff"/>
+      <stop offset="1" stop-color="#101527"/>
+    </linearGradient>
+    <filter id="Ellipse_11" x="129" y="845" width="530" height="530" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-13">
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="350" height="350" transform="translate(2604 3092)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-14" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0090ff"/>
+      <stop offset="0.456" stop-color="#fff"/>
+      <stop offset="1" stop-color="#0090ff"/>
+    </linearGradient>
+    <filter id="Ellipse_13" x="617.909" y="1190.909" width="348.182" height="348.182" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-14">
+      <rect id="Rectangle_23" data-name="Rectangle 23" width="350" height="350" transform="translate(2604 3092)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient-2)"/>
+    </clipPath>
+    <filter id="Ellipse_14" x="421.909" y="1088.909" width="348.182" height="348.182" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-13"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_8" x="446" y="670" width="530" height="530" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-14"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_10" x="669.909" y="935.909" width="348.182" height="348.182" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-15"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-18" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0090ff" stop-opacity="0.388"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.388"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-19" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#101527" stop-opacity="0.278"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-20" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0090ff" stop-opacity="0.388"/>
+      <stop offset="1" stop-color="#979ea4" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-21" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#979ea4"/>
+      <stop offset="1" stop-color="#101527" stop-opacity="0.039"/>
+    </linearGradient>
+  </defs>
+  <g id="project-description-image" transform="translate(-2315 -2381)" clip-path="url(#clip-path)">
+    <g id="circle-mongoDb" transform="translate(892 649)" clip-path="url(#clip-path-2)">
+      <g transform="matrix(1, 0, 0, 1, 1423, 1732)" filter="url(#Ellipse_17)">
+        <circle id="Ellipse_17-2" data-name="Ellipse 17" cx="250" cy="250" r="250" transform="translate(876 1118.7)" fill="url(#linear-gradient-4)"/>
+      </g>
+      <text id="Database" transform="translate(2373 3139)" fill="#101527" font-size="78" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">MongoDb</tspan></text>
+    </g>
+    <g id="circle-mongoose" transform="translate(1100 777)" opacity="0.65" clip-path="url(#clip-path-2)">
+      <g transform="matrix(1, 0, 0, 1, 1215, 1604)" filter="url(#Ellipse_18)">
+        <circle id="Ellipse_18-2" data-name="Ellipse 18" cx="250" cy="250" r="250" transform="translate(1084 1246.7)" fill="url(#linear-gradient-4)"/>
+      </g>
+      <text id="Database-2" data-name="Database" transform="translate(2363.5 3139)" fill="#101527" font-size="78" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Mongoose</tspan></text>
+    </g>
+    <g id="circle-database" transform="translate(1208 454)" clip-path="url(#clip-path-2)">
+      <g transform="matrix(1, 0, 0, 1, 1107, 1927)" filter="url(#Ellipse_7)">
+        <circle id="Ellipse_7-2" data-name="Ellipse 7" cx="250" cy="250" r="250" transform="translate(1192 923.7)" fill="url(#linear-gradient-4)"/>
+      </g>
+      <text id="Database-3" data-name="Database" transform="translate(2389 3132.7)" fill="#101527" font-size="78" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Database</tspan></text>
+    </g>
+    <g id="circle-project" transform="translate(491 -240)" clip-path="url(#clip-path-5)">
+      <g transform="matrix(1, 0, 0, 1, 1824, 2621)" filter="url(#Ellipse_6)">
+        <g id="Ellipse_6-2" data-name="Ellipse 6" transform="translate(484.09 245.09)" fill="#fff" stroke="#0090ff" stroke-width="1">
+          <circle cx="350" cy="350" r="350" stroke="none"/>
+          <circle cx="350" cy="350" r="349.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Project" transform="translate(2486.045 3250.091)" fill="#101527" stroke="#0090ff" stroke-width="1" font-size="106" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Project</tspan></text>
+    </g>
+    <g id="circle-server" transform="translate(882 119)" clip-path="url(#clip-path-2)">
+      <g transform="matrix(1, 0, 0, 1, 1433, 2262)" filter="url(#Ellipse_9)">
+        <circle id="Ellipse_9-2" data-name="Ellipse 9" cx="250" cy="250" r="250" transform="translate(866 595)" fill="url(#linear-gradient-7)"/>
+      </g>
+      <text id="Server" transform="translate(2439 3140)" fill="#64c8ff" font-size="80" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Server</tspan></text>
+    </g>
+    <g id="circle-security" transform="translate(973 542)" clip-path="url(#clip-path-7)">
+      <g transform="matrix(1, 0, 0, 1, 1342, 1839)" filter="url(#Ellipse_12)">
+        <circle id="Ellipse_12-2" data-name="Ellipse 12" cx="159.091" cy="159.091" r="159.091" transform="translate(947.91 1008.91)" fill="url(#linear-gradient)"/>
+      </g>
+      <text id="Data_Security" data-name="Data Security" transform="translate(2300.727 3027.273)" fill="#64c8ff" font-size="50" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Data Security</tspan></text>
+    </g>
+    <g id="circle-node" transform="translate(1054 -140)" clip-path="url(#clip-path-2)">
+      <g transform="matrix(1, 0, 0, 1, 1261, 2521)" filter="url(#Ellipse_15)">
+        <circle id="Ellipse_15-2" data-name="Ellipse 15" cx="250" cy="250" r="250" transform="translate(1038 336)" fill="url(#linear-gradient-7)"/>
+      </g>
+      <text id="NodeJs" transform="translate(2420 3140)" fill="#64c8ff" font-size="80" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">NodeJs</tspan></text>
+    </g>
+    <g id="circle-express" transform="translate(1273 119)" clip-path="url(#clip-path-2)">
+      <g transform="matrix(1, 0, 0, 1, 1042, 2262)" filter="url(#Ellipse_16)">
+        <circle id="Ellipse_16-2" data-name="Ellipse 16" cx="250" cy="250" r="250" transform="translate(1257 595)" fill="url(#linear-gradient-7)"/>
+      </g>
+      <text id="ExpressJs" transform="translate(2387 3140)" fill="#64c8ff" font-size="80" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">ExpressJs</tspan></text>
+    </g>
+    <g id="circle-jwt" transform="translate(866 924)" clip-path="url(#clip-path-10)">
+      <g transform="matrix(1, 0, 0, 1, 1449, 1457)" filter="url(#Ellipse_19)">
+        <circle id="Ellipse_19-2" data-name="Ellipse 19" cx="159.091" cy="159.091" r="159.091" transform="translate(840.91 1390.91)" fill="url(#linear-gradient-11)"/>
+      </g>
+      <text id="JSON_Web_Token" data-name="JSON Web
+Token" transform="translate(2449 2997)" fill="#fff" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-93.398" y="0">JSON Web</tspan><tspan x="-51.963" y="53">Token</tspan></text>
+    </g>
+    <g id="circle-sha256" transform="translate(1604 527)" clip-path="url(#clip-path-10)">
+      <g transform="matrix(1, 0, 0, 1, 711, 1854)" filter="url(#Ellipse_20)">
+        <circle id="Ellipse_20-2" data-name="Ellipse 20" cx="159.091" cy="159.091" r="159.091" transform="translate(1578.91 993.91)" fill="url(#linear-gradient-12)"/>
+      </g>
+      <text id="Secure_Hash_Algorithm_256" data-name="Secure Hash
+Algorithm 256" transform="translate(2449 2997)" fill="#64c8ff" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-108.711" y="0">Secure Hash</tspan><tspan x="-126.182" y="53">Algorithm 256</tspan></text>
+    </g>
+    <g id="circle-react" transform="translate(150 374)" clip-path="url(#clip-path-2)">
+      <g transform="matrix(1, 0, 0, 1, 2165, 2007)" filter="url(#Ellipse_11)">
+        <circle id="Ellipse_11-2" data-name="Ellipse 11" cx="250" cy="250" r="250" transform="translate(134 850)" fill="url(#linear-gradient-13)"/>
+      </g>
+      <text id="ReactJs" transform="translate(2421.5 3140)" fill="#fff" font-size="80" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">ReactJs</tspan></text>
+    </g>
+    <g id="circle-axios" transform="translate(318 469)" clip-path="url(#clip-path-13)">
+      <g transform="matrix(1, 0, 0, 1, 1997, 1912)" filter="url(#Ellipse_13)">
+        <circle id="Ellipse_13-2" data-name="Ellipse 13" cx="159.091" cy="159.091" r="159.091" transform="translate(622.91 1195.91)" fill="url(#linear-gradient-14)"/>
+      </g>
+      <text id="Axios" transform="translate(2696.5 3296)" fill="#101527" font-size="70" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Axios</tspan></text>
+    </g>
+    <g id="circle-redux" transform="translate(122 367)" clip-path="url(#clip-path-14)">
+      <g transform="matrix(1, 0, 0, 1, 2193, 2014)" filter="url(#Ellipse_14)">
+        <circle id="Ellipse_14-2" data-name="Ellipse 14" cx="159.091" cy="159.091" r="159.091" transform="translate(426.91 1093.91)" fill="url(#linear-gradient-2)"/>
+      </g>
+      <text id="Redux" transform="translate(2684.5 3296)" fill="#fff" font-size="70" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Redux</tspan></text>
+    </g>
+    <g id="circle-client" transform="translate(467 199)" clip-path="url(#clip-path-2)">
+      <g transform="matrix(1, 0, 0, 1, 1848, 2182)" filter="url(#Ellipse_8)">
+        <circle id="Ellipse_8-2" data-name="Ellipse 8" cx="250" cy="250" r="250" transform="translate(451 675)" fill="url(#linear-gradient-13)"/>
+      </g>
+      <text id="Client" transform="translate(2447.5 3140)" fill="#fff" font-size="80" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Client</tspan></text>
+    </g>
+    <g id="circle-api" transform="translate(370 214)" clip-path="url(#clip-path-14)">
+      <g transform="matrix(1, 0, 0, 1, 1945, 2167)" filter="url(#Ellipse_10)">
+        <circle id="Ellipse_10-2" data-name="Ellipse 10" cx="159.091" cy="159.091" r="159.091" transform="translate(674.91 940.91)" fill="url(#linear-gradient-3)"/>
+      </g>
+      <text id="API" transform="translate(2727.5 3296)" fill="#fff" font-size="70" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">API</tspan></text>
+    </g>
+    <path id="Polygon_2" data-name="Polygon 2" d="M1411.5,0,2823,1093.261H0Z" transform="matrix(0.883, -0.469, 0.469, 0.883, 1565.429, 2770.708)" fill="url(#linear-gradient-18)"/>
+    <path id="Polygon_3" data-name="Polygon 3" d="M1411.5,0,2823,2262.316H0Z" transform="matrix(0.017, 1, -1, 0.017, 4457.352, 1893.154)" fill="url(#linear-gradient-19)"/>
+    <path id="Polygon_4" data-name="Polygon 4" d="M1411.5,0,2823,1093.261H0Z" transform="matrix(0.883, -0.469, 0.469, 0.883, 2699, 2945.708)" fill="url(#linear-gradient-20)"/>
+    <path id="Polygon_5" data-name="Polygon 5" d="M1868.09,0,3736.18,1443.29H0Z" transform="matrix(-0.94, 0.342, -0.342, -0.94, 5850.248, 4230.2)" fill="url(#linear-gradient-21)"/>
+  </g>
+</svg>

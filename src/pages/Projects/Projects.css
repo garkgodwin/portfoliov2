@@ -1,0 +1,68 @@
+.Projects {
+	width: 100%;
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.page-description {
+	height: 100vh;
+	width: auto;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 16px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	border: none;
+	position: relative;
+	opacity: 1;
+	background: url('../../images/projects/bg-description.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.pd-media {
+	width: 50%;
+	height: 100vh;
+	text-align: center;
+	color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.pd-media:hover .pd-image {
+	box-shadow: 8px 8px 8px white;
+}
+.pd-media:hover a {
+	box-shadow: 8px 8px 8px white;
+}
+.pd-image {
+	border: 2px solid var(--color-3);
+	border-radius: 16px;
+	width: 100%;
+	height: auto;
+	box-shadow: 4px 4px 8px white;
+	transition: all 0.4s ease;
+}
+
+.pd-texts {
+	width: 50%;
+	text-align: center;
+	padding: 8px;
+}
+.pd-title {
+	font-size: 80px;
+	width: auto;
+	color: rgba(0, 0, 0, 0.64);
+}
+.pd-subtitle {
+	font-size: 24px;
+	color: var(--color-1);
+}

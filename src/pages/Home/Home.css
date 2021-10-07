@@ -1,0 +1,23 @@
+.Home {
+	width: 100%;
+	height: auto;
+}
+
+.sh-box {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 50%;
+	color: var(--color-6);
+	padding: 8px;
+}
+
+.sh-box.sh-right {
+	height: 100%;
+}
+
+.sh-box.sh-bottom {
+	height: 100vh;
+	width: 100%;
+}

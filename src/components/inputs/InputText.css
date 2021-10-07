@@ -1,0 +1,38 @@
+.InputText {
+	width: auto;
+	height: auto;
+	background-color: transparent;
+	display: flex;
+	flex-direction: column;
+}
+
+.it-label {
+	font-size: 16px;
+	color: var(--color-1);
+}
+
+.it-input {
+	font-size: 20px;
+	border: none;
+	padding: 8px;
+	outline: none;
+	border-bottom: 1px solid var(--color-1);
+	background-color: transparent;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: var(--color-1);
+	transition: all 0.5s ease;
+}
+
+.it-input::placeholder {
+	color: var(--color-3);
+	opacity: 0.9;
+}
+
+.it-input:focus {
+	border-bottom: 1px solid var(--color-2);
+	background-color: var(--color-2);
+	color: var(--color-3);
+	border-radius: 8px;
+}

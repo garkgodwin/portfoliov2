@@ -1,0 +1,19 @@
+.LinkButton {
+	width: auto;
+	height: auto;
+	text-decoration: none;
+	color: var(--color-3);
+	background-color: var(--color-1);
+	border-radius: 16px;
+	padding: 16px;
+	font-size: 20px;
+	transition: all 0.3s ease, background-color 0.5s ease-in-out;
+	margin-top: 8px;
+}
+
+.LinkButton:hover {
+	box-shadow: 4px 4px 8px var(--color-6);
+	border-radius: 0;
+	background-color: var(--color-6);
+	color: var(--color-1);
+}

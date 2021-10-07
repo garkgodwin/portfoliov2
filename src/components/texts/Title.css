@@ -1,0 +1,23 @@
+.Title {
+	font-size: 80px;
+	color: var(--color-6);
+	width: auto;
+	text-align: center;
+}
+
+.home-title {
+	color: var(--color-6);
+}
+
+.title-1 {
+	color: var(--color-6);
+}
+
+.title-2 {
+	color: var(--color-6);
+}
+
+.Title.top {
+	position: absolute;
+	top: 0;
+}

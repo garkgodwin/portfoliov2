@@ -1,0 +1,40 @@
+.InputArea {
+	width: auto;
+	height: auto;
+	background-color: transparent;
+	display: flex;
+	flex-direction: column;
+}
+
+.ia-label {
+	font-size: 16px;
+	color: var(--color-1);
+}
+
+.ia-input {
+	min-width: 482px;
+	min-height: 150px;
+	max-width: 300px;
+	max-height: 482px;
+	font-size: 20px;
+	padding: 8px;
+	border: 1px solid var(--color-1);
+	background-color: transparent;
+	outline: none;
+	transition: all 0.5s ease;
+	border-radius: 16px;
+	color: var(--color-1);
+}
+.ia-input * {
+	background-color: transparent;
+}
+.ia-input::placeholder {
+	color: var(--color-3);
+	opacity: 0.9;
+}
+
+.ia-input:focus {
+	background-color: var(--color-2);
+	color: var(--color-3);
+	border: 1px solid var(--color-2);
+}

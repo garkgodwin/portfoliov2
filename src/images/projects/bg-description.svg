@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1044" height="654" viewBox="0 0 1044 654">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="section-box" width="1044" height="654" transform="translate(806 1629.5)" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#101527"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="page-description" transform="translate(-806 -1629.5)" clip-path="url(#clip-path)">
+    <rect id="bg-section" width="1044" height="654" transform="translate(806 1629.5)" fill="url(#linear-gradient)"/>
+    <rect id="box-1" width="717" height="683" transform="translate(625.413 1361.474) rotate(25)" fill="rgba(16,21,39,0.1)"/>
+    <rect id="box-1-2" data-name="box-1" width="717" height="683" transform="translate(1563.884 1755.487) rotate(25)" fill="rgba(100,200,255,0.1)"/>
+  </g>
+</svg>

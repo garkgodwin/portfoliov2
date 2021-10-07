@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="700" viewBox="0 0 600 700">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="600" height="700" transform="translate(705 190)" fill="#101527" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#101527"/>
+      <stop offset="1" stop-color="#64c8ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#101527"/>
+      <stop offset="1" stop-color="#0090ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.612"/>
+      <stop offset="1" stop-color="#101527" stop-opacity="0.129"/>
+    </linearGradient>
+  </defs>
+  <g id="bg-form" transform="translate(-705 -190)" clip-path="url(#clip-path)">
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="423" height="500" transform="matrix(0.891, -0.454, 0.454, 0.891, 1005, 246.268)" fill="url(#linear-gradient)"/>
+    <g id="Polygon_1" data-name="Polygon 1" transform="translate(732.574 409.978) rotate(56)" fill="url(#linear-gradient-2)">
+      <path d="M 419.1587829589844 385.5 L 0.8412285447120667 385.5 L 210 1.046258091926575 L 419.1587829589844 385.5 Z" stroke="none"/>
+      <path d="M 210 2.092529296875 L 1.682464599609375 385 L 418.3175354003906 385 L 210 2.092529296875 M 210 0 L 420 386 L 0 386 L 210 0 Z" stroke="none" fill="#707070"/>
+    </g>
+    <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(705 190)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient-3)">
+      <rect width="600" height="700" stroke="none"/>
+      <rect x="0.5" y="0.5" width="599" height="699" fill="none"/>
+    </g>
+  </g>
+</svg>

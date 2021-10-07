@@ -1,0 +1,105 @@
+.Social {
+	width: auto;
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	margin-left: 24px;
+	margin-right: 24px;
+	position: relative;
+	transition: all 0.4s ease;
+	z-index: 90;
+}
+
+.social-link {
+	width: auto;
+	height: auto;
+	padding: 8px;
+	background-color: var(--color-1);
+	margin-right: 8px;
+	border-radius: 24px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: all 0.3s ease-in-out;
+	z-index: 100;
+	position: relative;
+}
+.social-link * {
+	transition: all 0.3s ease-in-out;
+}
+.social-icon {
+	width: 24px;
+	height: 24px;
+}
+
+.social-link:hover {
+	background-color: var(--color-2);
+	border-radius: 8px;
+}
+
+.social-tooltip {
+	position: absolute;
+	right: 10%;
+	margin-top: 0;
+	font-size: 0;
+	text-decoration: none;
+	color: var(--color-1);
+	background-color: var(--color-6);
+	padding: 8px;
+	transition: all 0.3s ease;
+	width: auto;
+	z-index: 0;
+	opacity: 0;
+	pointer-events: none;
+}
+
+.social-link:hover .social-tooltip {
+	font-size: 16px;
+	right: 10%;
+	opacity: 1;
+	margin-top: 80px;
+}
+
+.social-toggler:hover {
+	box-shadow: 0px 4px 4px var(--color-5);
+}
+
+@media only screen and (max-width: 1024px) {
+	.Social {
+		width: 100%;
+		position: absolute;
+		z-index: 90;
+		justify-content: center;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.Social {
+		margin-right: 24px;
+		opacity: 1;
+		position: absolute;
+		top: 0;
+		width: auto;
+		height: 100%;
+		right: 50px;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.Social.social-gone {
+		margin-right: -100%;
+		opacity: 0;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.social-icon {
+		width: 12px;
+		height: 12px;
+	}
+	.social-link:hover .social-tooltip {
+		font-size: 12px !important;
+	}
+}

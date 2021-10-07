@@ -1,0 +1,133 @@
+.CarouselItem {
+	text-align: center;
+	width: 30%;
+	height: 35%;
+	overflow: hidden;
+	background-color: var(--color-1);
+	margin-right: 8px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 8px;
+	position: absolute;
+	z-index: 0;
+	opacity: 0;
+	left: 25%;
+	box-shadow: 0 0 8px var(--color-6);
+}
+.CarouselItem,
+.CarouselItem * {
+	transition: all 0.6s ease-in-out, opacity 0.2s ease-in-out,
+		font-size 0.2s ease-in-out, height 0.8s ease-in-out;
+}
+
+.ci-title {
+	font-size: 20px;
+}
+.ci-space {
+	width: 90%;
+	border: 1px solid var(--color-3);
+	opacity: 0;
+}
+.ci-link {
+	margin-top: 8px;
+	opacity: 0;
+	text-decoration: none;
+	color: white;
+	background-color: var(--color-2);
+	padding: 8px;
+	font-size: 0;
+}
+.ci-description {
+	opacity: 0;
+	font-size: 0;
+	padding: 8px;
+	height: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.CarouselItem.active {
+	left: 25%;
+	width: 50%;
+	height: 75%;
+	z-index: 100;
+	opacity: 1;
+	box-shadow: 0 0 16px var(--color-6);
+}
+.CarouselItem.active p,
+.CarouselItem.active hr,
+.CarouselItem.active a {
+	opacity: 1;
+	font-size: 16px;
+}
+.CarouselItem.active hr {
+	border: 1px solid var(--color-3);
+}
+.CarouselItem.active-right {
+	z-index: 0;
+	left: 70%;
+	opacity: 0.5;
+}
+
+.CarouselItem.active-left {
+	left: 0;
+	z-index: 0;
+	opacity: 0.5;
+}
+
+.CarouselItem.active-right.pro-active {
+	animation: proRight 1.5s;
+}
+
+.CarouselItem.active-left.pro-active {
+	animation: proLeft 1.5s;
+}
+
+@keyframes proRight {
+	0% {
+		left: 25%;
+		width: 50%;
+		height: 75%;
+		z-index: 100;
+		opacity: 1;
+		box-shadow: 0 0 16px var(--color-6);
+	}
+	25% {
+		height: 35%;
+		width: 35%;
+		left: 90%;
+		box-shadow: 0 0 8px var(--color-6);
+	}
+	50% {
+		left: 90%;
+		z-index: 0;
+	}
+	100% {
+		left: 70%;
+	}
+}
+
+@keyframes proLeft {
+	0% {
+		left: 25%;
+		width: 50%;
+		height: 75%;
+		z-index: 100;
+		opacity: 1;
+		box-shadow: 0 0 16px var(--color-6);
+	}
+	25% {
+		height: 35%;
+		width: 35%;
+		left: -20%;
+		box-shadow: 0 0 8px var(--color-6);
+	}
+	50% {
+		z-index: 0;
+	}
+	100% {
+		left: 70;
+	}
+}

@@ -1,0 +1,39 @@
+.Toggler {
+	width: 30px;
+	height: 30px;
+	padding: 4px;
+	background-color: transparent;
+	transition: all 0.3s ease-in-out;
+	cursor: pointer;
+}
+
+.toggler-menu {
+	border: 1px solid var(--color-3);
+	box-shadow: -1px 1px 4px var(--color-3);
+	display: none;
+}
+
+.toggler-social {
+	border: 1px solid var(--color-5);
+	box-shadow: -1px 1px 4px var(--color-5);
+	display: none;
+}
+
+.toggler-menu:hover {
+	box-shadow: 0 1px 4px var(--color-3);
+}
+.toggler-social:hover {
+	box-shadow: 0 1px 4px var(--color-5);
+}
+
+@media only screen and (max-width: 1024px) {
+	.toggler-menu {
+		display: block;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.toggler-social {
+		display: block;
+	}
+}

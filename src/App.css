@@ -1,0 +1,20 @@
+.App {
+	width: 100%;
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: var(--color-1);
+	color: var(--color-3);
+	position: relative;
+	background: url(./images/bg-gradient.svg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.App * {
+	z-index: 100;
+}

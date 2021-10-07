@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #101527;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="box-section-2" class="cls-1" width="1920" height="1080" transform="translate(10941 6567)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#0090ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#64c8ff" stop-opacity="0.439"/>
+      <stop offset="1" stop-color="#101527"/>
+    </linearGradient>
+  </defs>
+  <g id="bg-section-2" class="cls-2" transform="translate(-10941 -6567)">
+    <rect id="bg-section-2-2" data-name="bg-section-2" class="cls-1" width="1920" height="1080" transform="translate(10941 6567)"/>
+    <path id="Path_25" data-name="Path 25" class="cls-3" d="M11805.863,7349.979c241.039,97.813,442.048-251.878,620.391-227.442,144.266,19.767-37.771,307.322,305.605,197.441,78.211,114.62,544.252-149.369,544.252-149.369s-35.951,549.1,250.909,478.978c230.062-56.237,324.816-243.681,389.679-197.189,15.781,11.311,788.5,508.731,802.383,554.169,70.121,229.49,19.123-223.113,420.727-274.11S16147,7273.483,16147,7273.483l-937.074,1262.182-4207.273-63.747s-414.353-2059.014,0-1580.915,465.35,31.874,573.719,210.364S11805.863,7349.979,11805.863,7349.979Z" transform="translate(-1196 -337)"/>
+    <path id="Path_26" data-name="Path 26" class="cls-4" d="M12707.268,7490.065c-70.332,104.717-144.487,340.552,199.233,63.79,399.877,287.658,582.105-363.243,582.105-363.243s-57.373,414.353,229.487,344.231,172.283-229.488,242.4,0,203.988,102,605.592,51,701.212-395.229,701.212-395.229l-57.371,1345.053-4207.273-63.747s-414.353-2059.014,0-1580.915c200.547,231.4,30.6,699.365,105.373,845.7,66.768,130.678,475.327-346.66,583.527-328.54,21.017,3.519-137.323,391.966-128.1,407.163,35.678,58.764,137.536-199.993,255.59-176.694,43.814,8.647,59.365,119.862,222.47,149.05,12.053,4.687,139,9.823,307.322-101.3C12612.742,7512.175,12707.268,7490.065,12707.268,7490.065Z" transform="translate(-552 -439)"/>
+  </g>
+</svg>
