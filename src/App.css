@@ -8,7 +8,9 @@
 	background-color: var(--color-1);
 	color: var(--color-3);
 	position: relative;
-	background: url(./images/bg-gradient.svg);
+	/*background: url(./images/bg-gradient.svg);
+	*/
+	background: url(./images/common/bg-parallax.svg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;

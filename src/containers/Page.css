@@ -11,9 +11,4 @@
 .Page.Page-home {
 	height: auto;
 	width: 100%;
-	background: url('../images/home/bg-home-parallax.svg');
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-attachment: fixed;
-	background-position: center;
 }

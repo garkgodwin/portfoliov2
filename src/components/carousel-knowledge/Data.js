@@ -21,7 +21,7 @@ export let data = [
 			'With the help of the DRY principle, I can create a full range of usable components.',
 		image: <Image cName="image-carousel" src={ImageReact} />,
 		cName: '',
-		link: '#',
+		link: 'https://github.com/garkgodwin?tab=repositories',
 		linkText: 'View my react projects',
 	},
 	{
@@ -30,7 +30,7 @@ export let data = [
 			'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum dolor sint assumenda, placeat nobis labore quo beatae provident praesentium. Odit!',
 		image: <Image cName="image-carousel" src={ImageNode} />,
 		cName: '',
-		link: '#',
+		link: 'https://github.com/garkgodwin?tab=repositories',
 		linkText: 'View my node projects',
 	},
 	{
@@ -39,7 +39,7 @@ export let data = [
 			'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum dolor sint assumenda, placeat nobis labore quo beatae provident praesentium. Odit!',
 		image: <Image cName="image-carousel" src={ImageJava} />,
 		cName: '',
-		link: '#',
+		link: 'https://github.com/garkgodwin?tab=repositories',
 		linkText: 'View my Java projects',
 	},
 	{
@@ -48,7 +48,7 @@ export let data = [
 			'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum dolor sint assumenda, placeat nobis labore quo beatae provident praesentium. Odit!',
 		image: <Image cName="image-carousel" src={ImagePython} />,
 		cName: '',
-		link: '#',
+		link: 'https://github.com/garkgodwin?tab=repositories',
 		linkText: 'View my Python projects',
 	},
 	{
@@ -57,7 +57,7 @@ export let data = [
 			'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum dolor sint assumenda, placeat nobis labore quo beatae provident praesentium. Odit!',
 		image: <Image cName="image-carousel" src={ImageCsharp} />,
 		cName: '',
-		link: '#',
+		link: 'https://github.com/garkgodwin?tab=repositories',
 		linkText: 'View my C# projects',
 	},
 	{
@@ -66,7 +66,7 @@ export let data = [
 			'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum dolor sint assumenda, placeat nobis labore quo beatae provident praesentium. Odit!',
 		image: <Image cName="image-carousel" src={ImageMongo} />,
 		cName: '',
-		link: '#',
+		link: 'https://github.com/garkgodwin?tab=repositories',
 		linkText: 'View my mongo projects',
 	},
 	{
@@ -75,7 +75,7 @@ export let data = [
 			'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum dolor sint assumenda, placeat nobis labore quo beatae provident praesentium. Odit!',
 		image: <Image cName="image-carousel" src={ImageMysql} />,
 		cName: '',
-		link: '#',
+		link: 'https://github.com/garkgodwin?tab=repositories',
 		linkText: 'View my mysql projects',
 	},
 	{
@@ -84,7 +84,7 @@ export let data = [
 			'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum dolor sint assumenda, placeat nobis labore quo beatae provident praesentium. Odit!',
 		image: <Image cName="image-carousel" src={ImageStack} />,
 		cName: '',
-		link: '#',
+		link: 'https://github.com/garkgodwin?tab=repositories',
 		linkText: 'View my Stack Overflow Profile.',
 	},
 	{
@@ -93,7 +93,7 @@ export let data = [
 			'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum dolor sint assumenda, placeat nobis labore quo beatae provident praesentium. Odit!',
 		image: <Image cName="image-carousel" src={ImageGithub} />,
 		cName: '',
-		link: '#',
+		link: 'https://github.com/garkgodwin?tab=repositories',
 		linkText: 'View my Github Profile.',
 	},
 ];

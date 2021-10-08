@@ -1,5 +1,8 @@
 import React from 'react';
 
+//?DATA
+import { workflow } from './data-workflow.js';
+
 //?STYLES
 import './Home.css';
 
@@ -15,12 +18,14 @@ import Title from '../../components/texts/Title';
 import Description from '../../components/texts/Description';
 import Image from '../../components/images/Image';
 import Carousel from '../../components/carousel-knowledge/Carousel';
+import WorkflowCard from '../../components/cards/WorflowCard';
 
 const Home = () => {
 	//TODO: ADD COMPONENTS MORE FIX
 	const sectionDescription1 = 'a child, a student, a developer and a person';
 	const sectionDescription2 =
 		'experience can be ignored with the right knowlede to accompany it';
+	const sectionDescription3 = "to ease the client's curiosity";
 	return (
 		<Page cName="Page-home">
 			<Section cName="ection-home section-1">
@@ -46,6 +51,25 @@ const Home = () => {
 				</div>
 				<div className="sh-box sh-bottom">
 					<Carousel />
+				</div>
+			</Section>
+
+			<Section cName="section-home section-3">
+				<div className="sh-box sh-3">
+					<Title text="My Workflow" cName="title-home title-3" />
+					<Description
+						text={sectionDescription3}
+						cName="description-home description-3"
+					/>
+				</div>
+				<div className="sh-box sh-3 bottom">
+					{workflow.map((data, index) => {
+						return (
+							<div className={'wf-box ' + data.cName} key={index}>
+								<WorkflowCard data={data} />
+							</div>
+						);
+					})}
 				</div>
 			</Section>
 		</Page>
