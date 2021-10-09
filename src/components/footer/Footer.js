@@ -16,15 +16,15 @@ const Footer = () => {
 				<div className="f-item">
 					<Phone className="fi-icon" />
 
-					<a href="#" className="fi-text fi-link">
+					<span className="fi-text fi-link">
 						+63 936 210 1653
-					</a>
+					</span>
 				</div>
 				<div className="f-item">
 					<Mail className="fi-icon" />
-					<a href="#" className="fi-text fi-link">
+					<span className="fi-text fi-link">
 						garkgodwinduque@gmail.com
-					</a>
+					</span>
 				</div>
 				<div className="f-item f-location">
 					<Location className="fi-icon" />

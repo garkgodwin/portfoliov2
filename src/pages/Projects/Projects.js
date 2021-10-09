@@ -8,7 +8,6 @@ import Section from '../../containers/Section'
 
 //?COMPONENTS
 import LinkButton from '../../components/buttons/LinkButton';
-import Title from '../../components/texts/Title';
 import Description from '../../components/texts/Description';
 const Projects = () => {
 	const description1 = "My main focus is on developing website applications. With " +

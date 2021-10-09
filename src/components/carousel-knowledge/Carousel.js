@@ -10,7 +10,7 @@ import { data } from './Data';
 import CarouselItem from './CarouselItem';
 
 const Carousel = () => {
-	let [items, setItems] = useState(data);
+	let items = data;
 	const [index, setIndex] = useState({
 		left: 0,
 		preActive: 0,
