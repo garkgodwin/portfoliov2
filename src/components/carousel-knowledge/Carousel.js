@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 
 //?STYLES
 import './Carousel.css';
@@ -20,6 +20,7 @@ const Carousel = () => {
 	});
 	useEffect(() => {
 		setDefault();
+		// eslint-disable-next-line
 	}, []);
 	const setDefault = () => {
 		let len = items.length;

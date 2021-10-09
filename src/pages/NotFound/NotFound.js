@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 //?STYLES
 import './NotFound.css';
 
-const Notfound = () => {
+const NotFound = () => {
 	return (
 		<div className="NotFound">
 			<div className="nf-tit">
@@ -24,4 +24,4 @@ const Notfound = () => {
 	);
 };
 
-export default Notfound;
+export default NotFound;
