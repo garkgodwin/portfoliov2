@@ -3,39 +3,27 @@ import React from 'react';
 //?STYLES
 import './Projects.css';
 
-//?IMAGES
-import DescriptionImage from '../../images/projects/description-image.jpg';
+//?CONTAINERS
+import Section from '../../containers/Section'
 
 //?COMPONENTS
 import LinkButton from '../../components/buttons/LinkButton';
-
+import Title from '../../components/texts/Title';
+import Description from '../../components/texts/Description';
 const Projects = () => {
+	const description1 = "My main focus is on developing website applications. With " +
+					"the help of ReactJs, I made static websites from school " +
+					"projects to personal ones. I also used NodeJs and ExpressJs, " +
+					"together with ReactJs, I created multiple client-server websites."
+					
 	return (
 		<div className="Projects">
-			<div className="page-description">
-				<div className="pd-media">
-					<img
-						src={DescriptionImage}
-						alt="Full stack"
-						className="pd-image"
-					/>
-					<LinkButton text="View Full Stack Projects" link="#" />
+			<Section cName="section-projects section-1">
+			<div className="sh-box">
+				<Description cName="description-projects description-1" text={description1}/> 
 				</div>
-				<div className="pd-texts">
-					<p className="pd-subtitle">
-						My main focus is on developing website applications.
-						With the help of ReactJs, I made static websites from
-						school projects to personal ones. I also used NodeJs and
-						ExpressJs, together with ReactJs, I created multiple
-						client-server websites.
-					</p>
-					<h1 className="pd-title">Projects</h1>
-					<div className="pd-buttons">
-						<LinkButton text="My works" link="#" />
-						<LinkButton text="Buy me a coffee" link="#" />
-					</div>
-				</div>
-			</div>
+			<LinkButton text="View My Works" link="https://github.com/garkgodwin?tab=repositories"/> 
+			</Section>
 		</div>
 	);
 };

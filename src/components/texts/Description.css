@@ -3,9 +3,11 @@
 	height: auto;
 	text-align: center;
 	font-size: 40px;
+	color: var(--color-6);
 }
 
-.Description.Description-home {
+.description-home {
 	background-color: whtie;
 	color: var(--color-6);
 }
+
